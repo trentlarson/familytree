@@ -1137,7 +1137,7 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZK2-KKB/LZK2-KKB.json",
+              "resource": "gedcomx-indi:a49145d0-cfac-11ea-a04c-c560ed6a06d2--LZK2-KKB.json",
               "resourceId": "LZK2-KKB"
             },
             "parent2": {
